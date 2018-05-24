@@ -1,1 +1,1 @@
-worker: python ChatterBot.py
+Web: unicorn app:app
