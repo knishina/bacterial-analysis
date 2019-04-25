@@ -16,12 +16,30 @@ The navigation block is in the upper left part of the page.  Samples are selecte
 
 <br />
 
-#### Plot: Pie Chart.
-The first plot is a pie chart.  In this cart will display a maximum of the top ten bacteria found in each sample.  The legend indicates the identification number of the bacteria species seen in the chart.  For more information about the bacteria, over the pie chart.  A text box will display the species ID, the full classification of the bacteria, the number of bacteria in the sample, and the percent of the whole sample.
+#### Data Block: Sample MetaData.
+The Data Block contains data associated with the selected sample.  The data displayed includes the participant's age, belly button type, ethnicity, gender, location, and sample ID.
+![MetaData]()
 
+<br />
+
+#### Plot: Pie Chart.
+The first plot is a pie chart.  This chart displays a maximum of the top ten bacteria found in each sample.  The legend indicates the identification number of the bacteria species seen in the chart.  For more information about the bacteria, over the pie chart.  A text box will display the species ID of the bacteria, the full classification of the bacteria, the number of bacteria in the sample, and the percent of the whole sample.
 ![Pie Chart]()
 
 <br />
 
 #### Plot: Gauge.
-The second plot is a 
+The second plot is a gauge.  The gauge indicates the freqeuncy of belly button washes performed by the participant.  It is interesting to observe if there is a correlation between bacterial type/quantity and the number of belly button washes.
+![Gauge]()
+
+<br />
+
+#### Plot: Bubble Chart.
+The third plot is a bubble plot.  This chart displays all bacteria found per sample.  The size of the bubble indicates the quantity of the bacterial strain found, which is also represented by the y-axis.  The x-axis of the plot is the bacterial species ID.  A text box will display the species ID of the bacteria, the quantity of that bacteria found, and the full classification of the bacteria.
+![Bubble Chart]()
+
+<br />
+
+###License.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/knishina/bacterial-analysis/blob/master/LICENSE) file for details.
+
