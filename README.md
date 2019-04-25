@@ -4,7 +4,7 @@
 <br />
 
 ### Summary.
-The [Dunn Lab](http://robdunnlab.com/projects/belly-button-biodiversity/) performed a survey study to assess the diversity of bacteria in in participants' belly buttons.  The samples were subjected to PCR for the 16S rRNA gene, sequenced, and analysed for the type of bacterial strain.  The data was made public and ripe for analysis and visualization. Consequently, this project was to take the data, clean it, and build an interactive web-based dashboard.  Full stack!
+The [Dunn Lab](http://robdunnlab.com/projects/belly-button-biodiversity/) performed a survey study to assess the diversity of bacteria in in participants' belly buttons.  The samples were subjected to PCR for the 16S rRNA gene, sequenced, and analysed for the type of bacterial strain.  The bacterial strain is listed as its operational taxonomic unit (OTU). The data was made public and was ripe for analysis and visualization. Consequently, this project was to take the data, clean it, and build an interactive web-based dashboard.  Full stack!
 
 ![Plates of Bacteria](https://github.com/knishina/bacterial-analysis/blob/master/Images/01.png)
 
