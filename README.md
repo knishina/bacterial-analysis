@@ -12,6 +12,7 @@ The [Dunn Lab](http://robdunnlab.com/projects/belly-button-biodiversity/) perfor
 
 ### Features.
 The navigation block is in the upper left part of the page.  Samples are selected by this drop-down menu and the corresponding data is visualized in the three plots.
+
 ![Nav Block](https://github.com/knishina/bacterial-analysis/blob/master/Images/02.png)
 
 <br />
