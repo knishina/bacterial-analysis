@@ -41,6 +41,6 @@ The third plot is a bubble plot.  This chart displays all bacteria found per sam
 
 <br />
 
-###License.
+### License.
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/knishina/bacterial-analysis/blob/master/LICENSE) file for details.
 
