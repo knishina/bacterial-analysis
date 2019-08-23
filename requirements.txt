@@ -4,7 +4,7 @@ gunicorn==19.8.1
 itsdangerous==0.24
 Jinja2==2.10.1
 MarkupSafe==1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 SQLAlchemy==1.1.13
 numpy==1.15.1
 pandas==0.23.4
