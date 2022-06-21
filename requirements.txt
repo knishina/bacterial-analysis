@@ -6,6 +6,6 @@ Jinja2==2.10.1
 MarkupSafe==1.0
 Werkzeug==0.15.3
 SQLAlchemy==1.1.13
-numpy==1.15.1
+numpy==1.22.0
 pandas==0.23.4
 Flask-SQLAlchemy==2.3.2
