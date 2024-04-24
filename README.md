@@ -1,5 +1,4 @@
 # bacterial-analysis
-## The project has been deployed: https://knishina-otu-bacteria.herokuapp.com/
 
 <br />
 
